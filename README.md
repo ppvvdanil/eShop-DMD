@@ -1,14 +1,14 @@
-# eShop-DMD
-Online store "DMD"
+# Электронный магазин "DMD"
 
-A pet project aimed at studying React and MongoDB.
-Opportunities:
-Viewing a list of products without creating an account
-Creating an account and confirming it via email
-Adding to favorites and shopping cart
-Viewing a profile
-Search for products by name
-Adding a product (admin)
-Deleting an item (admin)
+## Приложение разработано с помощью:
+- [`React`](https://ru.reactjs.org/ "`React`")
+- [`TypeScript`](https://www.typescriptlang.org/ "`React`")
+- [`MobX`](https://mobx.js.org/README.html "`MobX`")
+- [`Ant Design`](https://ant.design/ "`Ant Design`")
 
-https://dmd.helops.ru/
+## Начало
+Чтобы запустить прокект локально:
+
+- Склонировать репозиторий
+- `npm install` установить рекомендованные зависимости
+- `npm start` запустить локальный сервер
