@@ -5,6 +5,7 @@
 - [`TypeScript`](https://www.typescriptlang.org/ "`React`")
 - [`MobX`](https://mobx.js.org/README.html "`MobX`")
 - [`Ant Design`](https://ant.design/ "`Ant Design`")
+- [`Flask`](https://flask.palletsprojects.com/en/stable/ "`Flask`")
 
 ## Начало
 Чтобы запустить прокект локально:
