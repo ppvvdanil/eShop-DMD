@@ -2,7 +2,7 @@
 
 ## Приложение разработано с помощью:
 - [`React`](https://ru.reactjs.org/ "`React`")
-- [`TypeScript`](https://www.typescriptlang.org/ "`React`")
+- [`JavaScript`](https://ecma-international.org/publications-and-standards/standards/ecma-262/ "`JavaScript`")
 - [`MobX`](https://mobx.js.org/README.html "`MobX`")
 - [`Ant Design`](https://ant.design/ "`Ant Design`")
 - [`Flask`](https://flask.palletsprojects.com/en/stable/ "`Flask`")
