@@ -16,4 +16,4 @@
 - `npm start` запустить локальный сервер
 - Для сервера
 - `pip install -r requirements.txt` установить рекомендованные зависимости
-- `python run.py`
+- `python run.py` запустить локальный сервер
